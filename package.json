@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/DianaGaleano245/Aplicacion#readme",
   "dependencies": {
-    "ejs": "^3.1.8",
-    "express": "^4.18.1"
+    "ejs": "^3.1.8"
   },
   "devDependencies": {
     "dotenv": "^16.0.2",
+    "express": "^4.18.1",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20"
   }
